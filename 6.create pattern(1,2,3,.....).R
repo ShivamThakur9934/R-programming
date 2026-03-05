@@ -1,0 +1,2 @@
+pattern <- c(1:20, 19:1)
+pattern
